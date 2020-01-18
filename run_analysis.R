@@ -73,9 +73,6 @@ for (i in seq(1, length(clean_names)))
 }
 names(cleaned_data)<-clean_names
 
-## Save cleaned data to a csv
-write.csv(cleaned_data,"CourseProject/output/cleaned_data.csv")
-
 
 ## Create tidied data set
 tidy_data<-select(cleaned_data, everything(), -set.type)%>%
@@ -83,5 +80,5 @@ tidy_data<-select(cleaned_data, everything(), -set.type)%>%
   mutate_at(vars(-"activity.desc",-"subject.id"),mean)%>%
   distinct()
 
-## Save tidied data to a csv
-write.csv(tidy_data,"CourseProject/output/tidy_data.csv")
+## Save tidied data
+write.table(tidy_data,"CourseProject/output/tidy_data.txt", row.names = FALSE)
