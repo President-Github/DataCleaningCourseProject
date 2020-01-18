@@ -8,7 +8,7 @@ A course project from the final week of the Johns Hopkins Coursera "Getting and 
 ## Usage
 * Adjust working directory as required
 * Run run_analysis.R
-* Refer to CodeBook.md for more details on the cleaned output cleaned.csv
+* Refer to CodeBook.md for more details on the cleaned outputs cleaned_data.csv and tidy_data.csv
 
 ## Author
 Morgan Meeuwissen
