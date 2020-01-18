@@ -1,2 +1,2 @@
-# DataCleaningCourseProject
-Coursera Data Cleaning Course Project
+# Data Cleaning Course Project
+Morgan Meeuwissen
