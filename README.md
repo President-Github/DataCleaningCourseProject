@@ -1,5 +1,5 @@
 # Data Cleaning Course Project
-A course project from the final week of the Johns Hopkins Coursera "Getting and Cleaning Data" Course. The purpose is to produce a cleaned dataset and summary from an existing set data provided by [Human Activity Recognition Using Smartphones Study] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+A course project from the final week of the Johns Hopkins Coursera "Getting and Cleaning Data" Course. The purpose is to produce a cleaned dataset and summary from an existing set data provided by [Human Activity Recognition Using Smartphones Study](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ## Requirements
 * Appropriate version of R
