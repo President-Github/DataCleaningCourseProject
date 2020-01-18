@@ -6,7 +6,7 @@ A course project from the final week of the Johns Hopkins Coursera "Getting and 
 * Downloaded and unzipped copy of the [source dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) stored in the local directory.
 
 ## Usage
-* Adjust working direcotry as required
+* Adjust working directory as required
 * Run run_analysis.R
 * Refer to CodeBook.md for more details on the cleaned output cleaned.csv
 
