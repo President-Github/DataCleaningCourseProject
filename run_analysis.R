@@ -84,4 +84,4 @@ tidy_data<-select(cleaned_data, everything(), -set.type)%>%
   distinct()
 
 ## Save tidied data to a csv
-write.csv(cleaned_data,"CourseProject/output/tidy_data.csv")
+write.csv(tidy_data,"CourseProject/output/tidy_data.csv")
